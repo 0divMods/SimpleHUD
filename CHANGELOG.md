@@ -4,7 +4,11 @@ All notable changes to this project will be documented in this file.
 
 The format is based on Keep a Changelog and this project follows semantic versioning.
 
-## [1.0.0] - 2026-04-18
+## [1.0.0] - 2026-06-29
+
+### Added
+- Added a polished mod logo and Forge `logoFile` metadata for mod lists and publish pages.
+- Added project links to publish metadata and README.
 
 ### Changed
 - Refined HUD presentation with cleaner coordinate formatting, slightly roomier line spacing, tighter bottom padding, and softer panel/text rendering.

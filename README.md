@@ -7,6 +7,8 @@ A very small Minecraft Forge mod for **1.20.1** that shows:
 - Facing direction
 - Whether hostile mobs can spawn on the block you are currently looking at
 
+Current release: **1.0.0**.
+
 ## Toggle Key
 
 - Default key: **H**
@@ -38,3 +40,8 @@ This is intended as a practical indicator, not an exact replacement for every va
 Built jar output:
 
 - `build/libs/simplehud-1.0.0.jar`
+
+## Project Links
+
+- Repository: https://github.com/0dividedby0/SimpleHUD
+- Issues: https://github.com/0dividedby0/SimpleHUD/issues
