@@ -43,5 +43,5 @@ Built jar output:
 
 ## Project Links
 
-- Repository: https://github.com/0dividedby0/SimpleHUD
-- Issues: https://github.com/0dividedby0/SimpleHUD/issues
+- Repository: https://github.com/0divMods/SimpleHUD
+- Issues: https://github.com/0divMods/SimpleHUD/issues
